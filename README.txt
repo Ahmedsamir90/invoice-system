@@ -1,4 +1,3 @@
-hello Dr,alwan 
 kindly noted: 
 
 package was developed on PHP 7.3.11 and Laravel 6.2, but should work on lower versions too
