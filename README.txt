@@ -19,13 +19,6 @@ Global settings and overrides on-the-fly
 Installation
 Via Composer
 
-Laravel version <= 9
-$ composer require laraveldaily/laravel-invoices:^3.0
-Laravel version <= 8
-$ composer require laraveldaily/laravel-invoices:^2.0
-Laravel version <= 7
-$ composer require laraveldaily/laravel-invoices:^1.3
-After installing Laravel Invoices, publish its assets, views, translations and config using the invoices:install Artisan command:
 
 $ php artisan invoices:install
 Updates
